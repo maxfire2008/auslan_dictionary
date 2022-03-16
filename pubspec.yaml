@@ -39,7 +39,7 @@ dependencies:
   multi_select_flutter:
   dolphinsr_dart:
     git:
-      url: git://github.com/banool/dolphhinsr_dart.git
+      url: https://github.com/banool/dolphhinsr_dart.git
       ref: master
   cupertino_icons:
 
